@@ -4,8 +4,7 @@ var app = express();
 app.use(express.static('public'));
 
 
-var stuff = {catURLs:["http://localhost:3000/cat-6.jpg"
-    ,"http://cdn.pet360.com/pet360/Content/Images/CMS/Slideshows/cms_resized_large/cats-that-stay-small1.lg.jpg"
+var stuff = {catURLs:["http://cdn.pet360.com/pet360/Content/Images/CMS/Slideshows/cms_resized_large/cats-that-stay-small1.lg.jpg"
     ,"http://i.imgur.com/yIaGy8Ob.jpg"
     ,"http://www.todayifoundout.com/wp-content/uploads/2010/03/kittens2.jpg"
     ,"https://s-media-cache-ak0.pinimg.com/236x/1d/ac/45/1dac4558616fa0c1c4b27f431a5e3a19.jpg"
