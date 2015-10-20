@@ -4,7 +4,16 @@ var app = express();
 app.use(express.static('public'));
 
 
-var stuff = {catURLs:["http://cdn.pet360.com/pet360/Content/Images/CMS/Slideshows/cms_resized_large/cats-that-stay-small1.lg.jpg"
+var stuff = {catURLs:["https://pbs.twimg.com/profile_images/424484505915621376/EOwsjaMZ_400x400.png",
+    ,"http://25.media.tumblr.com/tumblr_m1v6y19gEH1rp17vmo1_500.jpg"
+    ,"http://24.media.tumblr.com/tumblr_lwz63zbBH71qcq6gto1_500.jpg"
+    ,"http://24.media.tumblr.com/tumblr_lpxo5tljVC1qfwg9lo1_500.jpg"
+    ,"http://www.wpclipart.com/animals/cats/cat_photos/cat_face_striped_tabby_T.png"
+    ,"http://www.cats.org.uk/uploads/images/news/early_neutering.jpg"
+    ,"http://i.imgur.com/fHHOgDY.jpg"
+    ,"http://i.ytimg.com/vi/z3U0udLH974/hqdefault.jpg"
+    ,"http://viralportal.net/wp-content/uploads/2015/06/cc.jpg"
+    ,"http://cdn.pet360.com/pet360/Content/Images/CMS/Slideshows/cms_resized_large/cats-that-stay-small1.lg.jpg"
     ,"http://i.imgur.com/yIaGy8Ob.jpg"
     ,"http://www.todayifoundout.com/wp-content/uploads/2010/03/kittens2.jpg"
     ,"https://s-media-cache-ak0.pinimg.com/236x/1d/ac/45/1dac4558616fa0c1c4b27f431a5e3a19.jpg"
