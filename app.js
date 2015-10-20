@@ -18,8 +18,7 @@ var stuff = {catURLs:["https://pbs.twimg.com/profile_images/424484505915621376/E
     ,"http://www.todayifoundout.com/wp-content/uploads/2010/03/kittens2.jpg"
     ,"https://s-media-cache-ak0.pinimg.com/236x/1d/ac/45/1dac4558616fa0c1c4b27f431a5e3a19.jpg"
     ,"http://dogshome.com/wp-content/uploads/2012/03/cat-adoption.jpg"
-    ,"http://www.memrise.com/s3_proxy/?f=uploads/mems/4535567000130812033704.jpeg"
-	,"http://images4.fanpop.com/image/photos/18000000/Adorable-kitties-kitties-18082645-570-558.jpg"]
+	  ,"http://images4.fanpop.com/image/photos/18000000/Adorable-kitties-kitties-18082645-570-558.jpg"]
 }
 
 app.get('/', function (req, res) {
